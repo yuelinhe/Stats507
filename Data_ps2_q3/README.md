@@ -1,0 +1,1 @@
+Raw data that is downloaded from National Health and Nutrition Examination Survey offcial website, and included demographic datasets and oral health and dentition data for four cohorts spanning the years 2011-2018.
